@@ -1,2 +1,2 @@
-# Filosof-a-de-la-tecnolog-a
-Trabajos UEA IA
+# EMOTIONS
+El proyeco consiste en la detección de emociones en las personas 
