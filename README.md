@@ -1,2 +1,1 @@
-# EMOTIONS
-El proyeco consiste en la detección de emociones en las personas 
+# TAREAS DEL TALLER FILOSOFIA EN LA TECNOLOGIA
